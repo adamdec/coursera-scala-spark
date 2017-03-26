@@ -10,4 +10,4 @@ Score: 10/10
 No assignment
 
 ## Week 4 
-TODO
+Score: 10/10
